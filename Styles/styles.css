@@ -1,0 +1,33 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.Dir {
+    background-color: #87A878;
+}
+
+.Fir {
+    background-color: #58674F;;
+
+}
+
+/* Header */
+
+.img {
+    height: 330px;
+    padding: 20px 0px 10px 300px;
+}
+
+h1 {
+    color: #292526;
+    text-align: center;
+    padding: 140px 200px 0px 0px;
+}
+
+
+/* Middle Part */
+
+.para {
+    color: #EEE1E1;
+    text-align: center;
+}
